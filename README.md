@@ -1,1 +1,1 @@
-# Nemo-Erp
+# NexaCore-Erp
